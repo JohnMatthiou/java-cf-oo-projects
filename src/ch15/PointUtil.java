@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch15;
+package ch15;
 
 public class PointUtil {
     public static void main(String[] args) {

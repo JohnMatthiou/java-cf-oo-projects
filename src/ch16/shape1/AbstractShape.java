@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch16.shape1;
+package ch16.shape1;
 
 public abstract class AbstractShape implements IShape {
     private long id;

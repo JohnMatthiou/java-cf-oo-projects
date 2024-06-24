@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch16.shape2;
+package ch16.shape2;
 
 import gr.aueb.cf.ch16.shape1.AbstractShape;
 

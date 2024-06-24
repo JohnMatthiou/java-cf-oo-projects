@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch16.shape2;
+package ch16.shape2;
 
 public class Circle extends AbstractShape implements ICircle{
     private double radius;
