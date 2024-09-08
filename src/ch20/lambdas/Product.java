@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch20.lambdas;
+package ch20.lambdas;
 
 public class Product {
     private int id;

@@ -1,9 +1,9 @@
-package gr.aueb.cf.ch19.bankaccounts.service;
+package ch19.bankaccounts.service;
 
-import gr.aueb.cf.ch19.bankaccounts.dto.BankAccountInsertDTO;
-import gr.aueb.cf.ch19.bankaccounts.dto.BankAccountUpdateDTO;
-import gr.aueb.cf.ch19.bankaccounts.model.BankAccount;
-import gr.aueb.cf.ch19.bankaccounts.service.exceptions.*;
+import ch19.bankaccounts.dto.BankAccountInsertDTO;
+import ch19.bankaccounts.dto.BankAccountUpdateDTO;
+import ch19.bankaccounts.model.BankAccount;
+import ch19.bankaccounts.service.exceptions.*;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch19.bankaccounts.service.exceptions;
+package ch19.bankaccounts.service.exceptions;
 
 public class BalanceNotZeroException extends Exception {
     private final static long serialVersionUID = 1L;

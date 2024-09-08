@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch19.bankaccounts.dto;
+package ch19.bankaccounts.dto;
 
 public class BankAccountUpdateDTO extends BaseDTO {
     private String iban;

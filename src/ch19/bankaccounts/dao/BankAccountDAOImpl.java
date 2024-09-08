@@ -1,6 +1,6 @@
-package gr.aueb.cf.ch19.bankaccounts.dao;
+package ch19.bankaccounts.dao;
 
-import gr.aueb.cf.ch19.bankaccounts.model.BankAccount;
+import ch19.bankaccounts.model.BankAccount;
 
 import java.util.*;
 

@@ -1,4 +1,4 @@
-package gr.aueb.cf.ch19.bankaccounts.model;
+package ch19.bankaccounts.model;
 
 import java.util.Objects;
 
